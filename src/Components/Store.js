@@ -27,6 +27,7 @@ const Store = () => {
                     <h6>{product.title}</h6>
                     <p>{product.category}</p>
                     <p>{product.price}$</p>
+                    <button>Click here</button>
   
                     </div>) 
                  })
