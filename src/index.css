@@ -1,0 +1,29 @@
+.cardContainer{
+
+  display: grid;
+  grid-template-columns: auto auto auto;
+text-align: center;
+
+  
+}
+img{
+  width:100px;
+  height:100px;
+}
+.card{
+  border:1px solid;
+  width: 250px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+box-shadow: 5px 5px 5px 2.5px gray ;
+margin: 5px;
+border-radius: 10px;
+
+}
+img{
+ margin-left: 80px;
+}
+h1{
+  text-align: center;
+}
